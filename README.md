@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=&logoColor=white" alt="Hibernate"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MapStruct-FF0000?style=for-the-badge&logo=&logoColor=white" alt="Liquibase"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/REST API-FF6F61?style=for-the-badge&logo=&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=&logoColor=white" alt="JUnit5"/>
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/Lombok-A50034?style=for-the-badge&logo=&logoColor=white" alt="Lombok"/>
   <img src="https://img.shields.io/badge/MapStruct-FF0000?style=for-the-badge&logo=&logoColor=white" alt="MapStruct"/>
+  <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=&logoColor=white" alt="Swagger"/>
 </p>
 
 ## Ключевые проекты:
@@ -61,5 +63,6 @@ https://github.com/Mr-Cider/java-shareit
   Готов к сложным задачам, быстро осваиваю новые технологии и стремлюсь к профессиональному росту в backend-разработке.
 
 - Написание автотестов
+
 
 
